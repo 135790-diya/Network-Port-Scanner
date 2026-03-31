@@ -22,7 +22,7 @@ No third-party packages are required.
 ## Installation
 
 ```bash
-git clone https://github.com/135790-diya/Network-Port-Scanner-.git
+git clone https://github.com/135790-diya/Network-Port-Scanner.git
 cd nmap_portscan_gui
 ```
 
